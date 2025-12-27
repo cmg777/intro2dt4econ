@@ -1,0 +1,5 @@
+{
+  "name": "Decision Tree Explorer for Econometrics",
+  "description": "An interactive learning tool designed for econometrics students to understand decision trees, feature space partitioning, and non-linear classification through visual data.",
+  "requestFramePermissions": []
+}
